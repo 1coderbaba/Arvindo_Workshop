@@ -1,0 +1,2 @@
+replicate your college time table using html table, 
+use rowspan or colspan
