@@ -1,0 +1,53 @@
+/* *
+{
+    border:2px solid;
+} */
+
+h1{
+    color:blue;
+}
+/* p
+{
+   background-color: green;
+} */
+
+/* combination */
+
+/*  */
+/* ul ol
+{
+    color:red
+} */
+/* child selector */
+/* ul>li
+{
+    color:green
+} */
+
+/* li+li
+{
+    color:blue
+} */
+/* general sibling  */
+/* li~li
+{
+    color:blue
+} */
+/* attribute selector */
+input[type="text"]
+{
+    background-color: green;
+}
+/*
+ ^ =start with
+ $ = end with
+* = substring matching
+*/
+a[href*="og"]
+{
+    color:green;
+}
+input[disabled]
+{
+    border:2px solid red;
+}

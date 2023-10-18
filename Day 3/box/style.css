@@ -1,0 +1,27 @@
+div
+{
+    height: 100px;
+    width: 100px;
+    border-left: 5px solid green;
+    border-bottom: 5px solid red;
+    border-right: 5px solid blue;
+    border-top: 5px solid yellow;
+    /* margin-left: 100px;
+    margin-top: 100px; */
+    /* margin: 100px 50px 100px 50px; */
+    padding: 30px;
+    border-radius: 50%;
+}
+
+h1{
+    font-family: Handlee;
+}
+p
+{
+    font-family: "open sans";
+    text-transform: uppercase;
+    font-weight: 600;
+    line-height: 50px;
+    text-decoration:none;
+    letter-spacing: 5px;
+}
