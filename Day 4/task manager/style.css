@@ -1,0 +1,48 @@
+.box
+{
+    width: 500px;
+    margin: auto;
+    box-shadow:  0 0 40px black;
+    padding: 15px;
+    border-radius: 10px;
+}
+button
+{
+    border: none;
+    background-color: grey;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.edit
+{
+    background-color:green;
+}
+.delete
+{
+    background-color: yellow;
+}
+
+.add input
+{
+    width: 440px;
+    border:3px solid green;
+    border-radius: 5px;
+}
+
+.task input
+{
+    border: none;
+    background-color: inherit;
+    width: 350px;
+}
+
+.task
+{
+    border: 2px solid;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    height: 35px;
+    align-items: center;
+}
