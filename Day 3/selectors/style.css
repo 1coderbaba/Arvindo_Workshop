@@ -43,7 +43,7 @@ input[type="text"]
  $ = end with
 * = substring matching
 */
-a[href*="og"]
+a[href^="googl"]
 {
     color:green;
 }
